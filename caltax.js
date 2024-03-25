@@ -1,4 +1,4 @@
-// CalculadoraImpuestos.js
+// CalTax.js
 class CalculadoraImpuestos {
     static calcularImpuestoTotal(cliente) {
         const impuestoTotal = (cliente.getMontoBrutoAnual() - cliente.getDeducciones()) * 0.21;
