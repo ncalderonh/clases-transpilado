@@ -6,11 +6,11 @@ En este desafío, se busca validar los conocimientos de Programación Orientada 
 
 El proyecto estará compuesto por tres archivos JavaScript:
 
-1. **Cliente.js**: Este archivo define la clase `Cliente`, que representa a cada cliente de la empresa. Contiene métodos para establecer y obtener el nombre, el monto bruto anual y las deducciones de cada cliente.
+1. **cliente.js**: Este archivo define la clase `Cliente`, que representa a cada cliente de la empresa. Contiene métodos para establecer y obtener el nombre, el monto bruto anual y las deducciones de cada cliente.
 
-2. **CalculadoraImpuestos.js**: Aquí se encuentra la clase `CalTax`, que proporciona un método estático para calcular el impuesto total que debe pagar un cliente, según su monto bruto anual y deducciones.
+2. **caltax.js**: Aquí se encuentra la clase `CalTax`, que proporciona un método estático para calcular el impuesto total que debe pagar un cliente, según su monto bruto anual y deducciones.
 
-3. **Main.js**: Este archivo es el punto de entrada principal del programa. Aquí se crean instancias de clientes, se calcula el impuesto total para cada uno y se muestra en la consola.
+3. **main.js**: Este archivo es el punto de entrada principal del programa. Aquí se crean instancias de clientes, se calcula el impuesto total para cada uno y se muestra en la consola.
 
 ## Transpilación con Babel
 
